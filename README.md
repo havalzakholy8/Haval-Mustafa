@@ -9,17 +9,18 @@
 
 ## Tech I use
 
-**Languages:** Python, JavaScript, HTML, CSS
-**AI & ML:** Prompt engineering, LLMs (Claude, ChatGPT, Gemini), PyTorch, NumPy
-**Tools:** Git, GitHub, Netlify
+- **Languages:** Python, JavaScript, HTML, CSS
+- **AI & ML:** Prompt engineering, LLMs (Claude, ChatGPT, Gemini), PyTorch, NumPy
+- **Tools:** Git, GitHub, Netlify
 
 ## Featured projects
 
 | Project | What it is |
 |---|---|
-| [Face Recognition Attendance](https://github.com/USERNAME/face-recognition-attendance) | Automatic attendance system using real-time face recognition |
-| [Personal Finance Manager](https://github.com/USERNAME/personal-finance-manager) | Python app for tracking income and expenses |
-| [LLM Rule Learning](https://github.com/USERNAME/llm-rule-learning) | Testing if LLMs can learn and explain hidden categorization rules |
+| **Face Recognition Attendance** | Automatic attendance system using real-time face recognition |
+| **Personal Finance Manager** | Python app for tracking income and expenses |
+| **LLM Rule Learning** | Testing if LLMs can learn and explain hidden categorization rules |
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/haval-mustafa-0834763a5/)
